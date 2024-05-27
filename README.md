@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=rxcf&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=rxcf&label=PROFILE+VIEWS&style=for-the-badge&abbreviated=true&color=ffffff)
 
 
 <!--
