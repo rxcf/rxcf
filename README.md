@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=rxcf&label=PROFILE+VIEWS&style=for-the-badge&abbreviated=true&color=21262c)
-
+<p style="text-align: center;">
+  ![](https://komarev.com/ghpvc/?username=rxcf&label=PROFILE+VIEWS&style=for-the-badge&abbreviated=true&color=21262c)
+</p>
 
 <!--
 **rxcf/rxcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
